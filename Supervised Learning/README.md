@@ -10,7 +10,7 @@ algorithm to generalize from the training data to unseen situations in a "reason
 of an algorithm is measured through the so-called generalization error.Supervised learning helps organizations solve for a variety of 
 real-world problems at scale, such as classifying spam in a separate folder from your inbox.
 
-## How supervised learning works?
+# How supervised learning works?
 
 The steps for supervised learning are:
 
