@@ -1,50 +1,28 @@
-# Rice-INDE 577 Data Science and Machine Learning
+# Rice-INDE 577 Dataset
 
 Name: Dong An
 Netid: da53
 
-This Project is created by Dong An.It contains all projects created in my graduate level INDE 577 Data Science and Machine Learning
-course which instrcudted by Randy Davil at Rice University. This data science course covers algorithms from supervised learning, 
-unsupervised learning, and if time permits, reinforcement learning. We implement many of the machine learning algorithms from scratch,
-but also make use of the Skikit-Learn and Tensorflow libraries.
 
 
 
-# Programming Language:
+# Palmer Penguins
+source: @allison_horst https://github.com/allisonhorst/penguins
 
-This course relies heavily on programming, and the programming language of choice for many data scientists is python.
+Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. Both datasets contain data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica.
 
+# sklearn.datasets.load_digits
+This is a copy of the test set of the UCI ML hand-written digits datasets https://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits
 
-# Content
+From a total of 43 people, 30 contributed to the training set and different 13 to the test set. 32x32 bitmaps are divided into nonoverlapping blocks of 4x4 and the number of on pixels are counted in each block. This generates an input matrix of 8x8 where each element is an integer in the range 0..16. This reduces dimensionality and gives invariance to small distortions.
+For info on NIST preprocessing routines, see M. D. Garris, J. L. Blue, G. T. Candela, D. L. Dimmick, J. Geist, P. J. Grother, S. A. Janet, and C. L. Wilson, NIST Form-Based Handprint Recognition System, NISTIR 5469, 1994.
 
-## Supervised Learning:
+# sklearn.datasets.make_checkerboard
+Kluger, Y., Basri, R., Chang, J. T., & Gerstein, M. (2003). Spectral biclustering of microarray data: coclustering genes and conditions. Genome research, 13(4), 703-716.
 
-Model Building and Error Analysis
+# The Olivetti faces dataset
+This dataset contains a set of face images taken between April 1992 and April 1994 at AT&T Laboratories Cambridge. The sklearn.datasets.fetch_olivetti_faces function is the data fetching / caching function that downloads the data archive from AT&T.
 
-Linear Regression
-
-Gradient Descent
-
-Logistic Regression
-
-Neural Nets
-
-Support Vector Machines
-
-k-Nearest Neighbors
-
-Decision/ Regression Trees
-
-Ensemble Learning
-
-## Unsupervised Learning:
-
-k-Means Clustering
-
-Principle Component Analysis
-
-# About the data
-The data used in these algorithms are from public database,Kaggle[https://www.kaggle.com/]. And the database from canvas 577 files named
-"palmer_penguins".
-
+There are ten different images of each of 40 distinct subjects. For some subjects, the images were taken at different times, varying the lighting, facial expressions (open / closed eyes, smiling / not smiling) and facial details (glasses / no glasses). All the images were taken against a dark homogeneous background with the subjects in an upright, frontal position (with tolerance for some side movement).
+The image is quantized to 256 grey levels and stored as unsigned 8-bit integers; the loader will convert these to floating point values on the interval [0, 1], which are easier to work with for many algorithms.
 
