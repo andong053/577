@@ -34,19 +34,21 @@ It is used to understand the relationship between dependent and independent vari
 
 # Topics
 
-K-Nearest Neighbors
-
-Gradient Descent
+Model Building and Error Analysis
 
 Linear Regression
 
+Gradient Descent
+
 Logistic Regression
 
-Perceptron
+Neural Nets
+
+Support Vector Machines
+
+k-Nearest Neighbors
 
 Decision_Regression Trees
-
-Model Building and Error Analysis
 
 Ensemble Learning
 
@@ -55,4 +57,3 @@ Ensemble Learning
 https://www.ibm.com/cloud/learn/supervised-learning
 
 https://en.wikipedia.org/wiki/Supervised_learning
-Neural Nets
