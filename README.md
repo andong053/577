@@ -46,7 +46,4 @@ k-Means Clustering
 
 Principle Component Analysis
 
-# About the data
-The data used in these algorithms are from public database,Kaggle[https://www.kaggle.com/]. And the database from canvas 577 files named
-"palmer_penguins".
 
