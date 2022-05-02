@@ -17,20 +17,20 @@ This course relies heavily on programming, and the programming language of choic
 
 ## Supervised Learning:
 
-Model Building and Error Analysis
-Linear Regression
-Gradient Descent
-Logistic Regression
-Neural Nets
-Support Vector Machines
-k-Nearest Neighbors
-Decision/ Regression Trees
-Ensemble Learning
+Model Building and Error Analysis/
+Linear Regression/
+Gradient Descent/
+Logistic Regression/
+Neural Nets/
+Support Vector Machines/
+k-Nearest Neighbors/
+Decision/ Regression Trees/
+Ensemble Learning/
 
 ## Unsupervised Learning:
 
-k-Means Clustering
-Principle Component Analysis
+k-Means Clustering/
+Principle Component Analysis/
 
 # About the data
 The data used in these algorithms are from public database,Kaggle[https://www.kaggle.com/]. And the database from canvas 577 files named
