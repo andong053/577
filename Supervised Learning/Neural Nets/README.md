@@ -18,5 +18,7 @@ That doesn't mean to say a neural network can just "look" at pieces of furniture
 
 # References
 https://www.explainthatstuff.com/introduction-to-neural-networks.html#units
+
 https://realpython.com/python-ai-neural-network/#neural-networks-main-concepts
+
 https://towardsdatascience.com/deep-learning-with-python-neural-networks-complete-tutorial-6b53c0b06af0
