@@ -1,7 +1,6 @@
 # Logistic Regression
 
 ![alt](https://files.realpython.com/media/log-reg-1.e32deaa7cbac.png)
-
 ![alt](https://files.realpython.com/media/log-reg-4.81e9806a86fa.png)
 
 ## Definition
