@@ -19,6 +19,7 @@ The KNN Algorithm
 
 (b)Add the distance and the index of the example to an ordered collection
 
+
 4. Sort the ordered collection of distances and indices from smallest to largest (in ascending order) by the distances
 
 5. Pick the first K entries from the sorted collection
