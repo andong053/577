@@ -10,9 +10,12 @@ The Perceptron algorithm is a two-class (binary) classification machine learning
 
 # Datasets
 
-## Palmer Penguins
+## Palmer penguins dataset
+https://github.com/allisonhorst/penguins
 
- https://github.com/allisonhorst/penguins
+Datasets contain data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica. Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
+
+
 
 # Reference
 
