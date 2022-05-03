@@ -6,7 +6,13 @@ Decision tree builds regression or classification models in the form of a tree s
 
 Each partition represents the data as a graphical decision tree. The primary difference between classification and regression decision trees is that, the classification decision trees are built with unordered values with dependent variables. The regression decision trees take ordered values with continuous values.
 
-## 
+# Datasets
+make circles from scikit learn
+Make a large circle containing a smaller circle in 2d.
+A simple toy dataset to visualize clustering and classification algorithms.
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_circles.html?highlight=make%20circles#sklearn.datasets.make_circles
+
+
 https://www.saedsayad.com/decision_tree_reg.htm
 
 https://medium.com/@gp_pulipaka/an-essential-guide-to-classification-and-regression-trees-in-r-language-4ced657d176b
