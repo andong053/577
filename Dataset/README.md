@@ -9,6 +9,8 @@ Netid: da53
 
 # Palmer Penguins
 
+![alt](https://allisonhorst.github.io/palmerpenguins/reference/figures/palmerpenguins.png)
+
 source: https://github.com/allisonhorst/penguins
 
 Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. Both datasets contain data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica.
@@ -21,6 +23,8 @@ From a total of 43 people, 30 contributed to the training set and different 13 t
 For info on NIST preprocessing routines, see M. D. Garris, J. L. Blue, G. T. Candela, D. L. Dimmick, J. Geist, P. J. Grother, S. A. Janet, and C. L. Wilson, NIST Form-Based Handprint Recognition System, NISTIR 5469, 1994.
 
 # sklearn.datasets.make_circles
+
+![alt](![image](https://user-images.githubusercontent.com/104458814/166402517-d8095b17-be2e-4e18-befb-c6998eee4de3.png)
 
 Make a large circle containing a smaller circle in 2d and produces Gaussian data with a spherical decision boundary for binary classification. A simple toy dataset to visualize clustering and classification algorithms.
 
