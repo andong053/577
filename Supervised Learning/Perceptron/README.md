@@ -12,7 +12,7 @@ The Perceptron algorithm is a two-class (binary) classification machine learning
 
 ## Palmer Penguins
 
-source: @allison_horst https://github.com/allisonhorst/penguins
+ https://github.com/allisonhorst/penguins
 
 # Reference
 
