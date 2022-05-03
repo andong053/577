@@ -1,6 +1,6 @@
 # Linear Regression
 
-## What is linear regression?
+## Definition
 
 Linear regression is a basic predictive analytics technique that uses historical data to predict an output variable. It is popular for predictive modelling because it is easily understood and can be explained using plain English.
 
@@ -22,12 +22,12 @@ scikit-learn — a module that provides simple and efficient tools for data mini
 
 The way Linear Regression works is by trying to find the weights (namely, W0 and W1) that lead to the best-fitting line for the input data (i.e. X features) we have. The best-fitting line is determined in terms of lowest cost.
 
-## Datasets
+# Datasets
 
 Palmer Penguins
 source: @allison_horst https://github.com/allisonhorst/penguins
 
-## References
+# References
 
 https://towardsdatascience.com/introduction-to-linear-regression-in-python-c12a072bedf0
 
