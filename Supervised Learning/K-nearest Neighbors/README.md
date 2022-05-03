@@ -6,14 +6,18 @@ The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervise
 Note: An understanding of how we calculate the distance between points on a graph is necessary before moving on. If you are unfamiliar with or need a refresher on how this calculation is done, thoroughly read “Distance Between 2 Points” in its entirety, and come right back.
 
 There are other ways of calculating distance, and one way might be preferable depending on the problem we are solving. However, the straight-line distance (also called the Euclidean distance) is a popular and familiar choice.
+
 The KNN Algorithm
-Load the data
-Initialize K to your chosen number of neighbors
-3. For each example in the data
 
-3.1 Calculate the distance between the query example and the current example from the data.
+1.Load the data
 
-3.2 Add the distance and the index of the example to an ordered collection
+2.Initialize K to your chosen number of neighbors
+
+3.For each example in the data
+
+(a)Calculate the distance between the query example and the current example from the data.
+
+(b)Add the distance and the index of the example to an ordered collection
 
 4. Sort the ordered collection of distances and indices from smallest to largest (in ascending order) by the distances
 
