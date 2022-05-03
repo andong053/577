@@ -1,5 +1,9 @@
 # Logistic Regression
 
+![alt](https://files.realpython.com/media/log-reg-1.e32deaa7cbac.png)
+
+![alt](https://files.realpython.com/media/log-reg-4.81e9806a86fa.png)
+
 ## Definition
 
 This type of statistical analysis (also known as logit model) is often used for predictive analytics and modeling, and extends to applications in machine learning. In this analytics approach, the dependent variable is finite or categorical: either A or B (binary regression) or a range of finite options A, B, C or D (multinomial regression). It is used in statistical software to understand the relationship between the dependent variable and one or more independent variables by estimating probabilities using a logistic regression equation. 
