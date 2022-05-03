@@ -1,6 +1,6 @@
 # Neural Nets
 
-## What is Neural Nets?
+## Definition
 
 Vectors, layers, and linear regression are some of the building blocks of neural networks. The data is stored as vectors, and with Python you store these vectors in arrays. Each layer transforms the data that comes from the previous layer. You can think of each layer as a feature engineering step, because each layer extracts some representation of the data that came previously.
 
