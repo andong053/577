@@ -24,8 +24,9 @@ The way Linear Regression works is by trying to find the weights (namely, W0 and
 
 # Datasets
 
-Palmer Penguins
-source: @allison_horst https://github.com/allisonhorst/penguins
+## Palmer penguins dataset
+
+Datasets contain data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica. Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network.
 
 # References
 
