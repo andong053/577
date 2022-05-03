@@ -34,6 +34,15 @@ source: https://github.com/allisonhorst/penguins
 
 Data were collected and made available by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER, a member of the Long Term Ecological Research Network. Both datasets contain data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica.
 
+## sklearn.datasets.load_wine
+
+The wine dataset is a classic and very easy multi-class classification dataset.
+The copy of UCI ML Wine Data Set dataset is downloaded and modified to fit
+standard format from:
+https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data
+
 # Reference
 
 https://towardsdatascience.com/principal-component-analysis-pca-explained-visually-with-zero-math-1cbf392b9e7d
+
+https://docs.w3cub.com/scikit_learn/modules/generated/sklearn.datasets.load_wine#sklearn.datasets.load_wine
