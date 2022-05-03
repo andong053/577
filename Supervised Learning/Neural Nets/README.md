@@ -1,6 +1,6 @@
 # Neural Nets
 
-![alt](https://miro.medium.com/max/1400/1*ApgZUAinNP5cvcPyfrs84g.png)
+![alt](https://miro.medium.com/max/479/1*QVIyc5HnGDWTNX3m-nIm9w.png)
 
 ## Definition
 
