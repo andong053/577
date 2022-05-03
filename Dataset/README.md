@@ -24,7 +24,7 @@ For info on NIST preprocessing routines, see M. D. Garris, J. L. Blue, G. T. Can
 
 # sklearn.datasets.make_circles
 
-(![image](https://user-images.githubusercontent.com/104458814/166402517-d8095b17-be2e-4e18-befb-c6998eee4de3.png)
+![image](https://user-images.githubusercontent.com/104458814/166402517-d8095b17-be2e-4e18-befb-c6998eee4de3.png)
 
 Make a large circle containing a smaller circle in 2d and produces Gaussian data with a spherical decision boundary for binary classification. A simple toy dataset to visualize clustering and classification algorithms.
 
