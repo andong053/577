@@ -1,5 +1,7 @@
 # Linear Regression
 
+![alt](https://files.realpython.com/media/poly-reg.5790f47603d8.png)
+
 ## Definition
 
 Linear regression is a basic predictive analytics technique that uses historical data to predict an output variable. It is popular for predictive modelling because it is easily understood and can be explained using plain English.
