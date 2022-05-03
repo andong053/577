@@ -1,6 +1,6 @@
 # K-means Clustering
 
-![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/ClusterAnalysis_Mouse.svg/450px-ClusterAnalysis_Mouse.svg.png)
+![alt](https://i.ytimg.com/vi/_aWzGGNrcic/hqdefault.jpg)
 
 ## Definition
 
