@@ -12,7 +12,10 @@ sklearn.datasets.make_circles
 
 Make a large circle containing a smaller circle in 2d and produces Gaussian data with a spherical decision boundary for binary classification. A simple toy dataset to visualize clustering and classification algorithms.
 
+Breast Cancer Wisconsin (Diagnostic) Data Set
+Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 
+Separating plane described above was obtained using Multisurface Method-Tree (MSM-T) [K. P. Bennett, "Decision Tree Construction Via Linear Programming." Proceedings of the 4th Midwest Artificial Intelligence and Cognitive Science Society, pp. 97-101, 1992], a classification method which uses linear programming to construct a decision tree. Relevant features were selected using an exhaustive search in the space of 1-4 features and 1-3 separating planes.
 
 
 # Reference
@@ -21,4 +24,4 @@ https://www.saedsayad.com/decision_tree_reg.htm
 
 https://medium.com/@gp_pulipaka/an-essential-guide-to-classification-and-regression-trees-in-r-language-4ced657d176b
 
-https://docs.w3cub.com/scikit_learn/modules/generated/sklearn.datasets.make_regression#sklearn.datasets.make_regression
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
