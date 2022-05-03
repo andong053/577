@@ -1,5 +1,7 @@
 # Supervised Learning
 
+![alt](https://bigdata-madesimple.com/wp-content/uploads/2018/02/Machine-Learning-Explained1.png)
+
 Supervised learning (SL) is the machine learning task of learning a function that maps an input to an output based on example 
 input-output pairs. It infers a function from labeled training data consisting of a set of training examples. In supervised learning, 
 each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal).
